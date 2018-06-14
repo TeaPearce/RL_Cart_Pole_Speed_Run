@@ -6,6 +6,8 @@ Solving Cart Pole (Reinforcement Learning challenge) as fast as possible - using
 
 [![youtube link](https://img.youtube.com/vi/3yRsn5M5Q28/0.jpg)](https://youtu.be/3yRsn5M5Q28)
 
+[YouTube demo](https://youtu.be/3yRsn5M5Q28)
+
 <img width="500" alt="graph_results" src="10_runs_plot.png">
 <img width="500" alt="print_results" src="10_runs_print.png">
 
